@@ -1,3 +1,3 @@
-# ValuAddedProgram-ML
-<h1 style="color:palevioletred; font-family: 'Times New Roman';">DAY 1 : </h1>
-<p></p>
+# ValuAddedProgram-ML-----------learn from scratch
+Sadhana Babaso Koravi
+learn concepts of Machine Learning from start.............
